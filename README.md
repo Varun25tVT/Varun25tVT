@@ -36,7 +36,7 @@
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-Varun%20Tyagi-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/Varun-Tyagi25)](https://linkedin.com/in/Varun-Tyagi25)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/Varun25t)](https://github.com/Varun25t)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/Varun25tVT)](https://github.com/Varun25tVT)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black&link=https://leetcode.com/Varunt25)](https://leetcode.com/Varunt25)
 
 ---
