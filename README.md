@@ -10,7 +10,7 @@
 
 ## 🧠 About Me
 - 🎯 Passionate about solving real-world problems with code
-- 👨‍💻 Interested in Data Science, Machine Learning and beginner AI tools
+- 👨‍💻 Interested in Data Science and beginner AI tools
 - 🌱 Currently learning APIs, automation, Data Science and AI integration
 - 🛠 Building personal tools & bots using Python and logic-based systems
 
@@ -37,10 +37,13 @@
 
 [![LinkedIn](https://img.shields.io/badge/-Varun%20Tyagi-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/Varun-Tyagi25)](https://linkedin.com/in/Varun-Tyagi25)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/Varun25tVT)](https://github.com/Varun25tVT)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black&link=https://leetcode.com/Varunt25)](https://leetcode.com/Varunt25)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black&link=https://leetcode.com/Varunt25
+)](https://leetcode.com/Varunt25)
 
 ---
 
+## 📈 GitHub Stats (Optional)
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Varun25t&show_icons=true&theme=default&hide_title=true" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Varun25tVT&show_icons=true&theme=default&hide_title=true" width="450" />
 </p>
