@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hi, I'm Varun Tyagi</h1>
 
 <p align="center">
-  🎓 3rd-year CSE Student at KIIT University <br>
-  💻 Java • Python • C++ | DSA | Data Science | AI Projects <br>
+  🎓 Final-Year CSE Student <br>
+  💻 Python • C++ • Java | DSA | Data Science | AI Projects <br>
   📍 India • 📫 varuntyagi458@gmail.com
 </p>
 
